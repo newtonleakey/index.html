@@ -247,7 +247,7 @@ cards.forEach((c,i)=>{
 
 // ── 2. VAULT ──
 const vaults=[
-  {label:'💛 Golden Memory',clue:'clue: the last swahili word i said to you tonight 🌙',pw:'null',content:'that time you said goodnight and i couldn\'t stop smiling. that one was for keeps. 🌙'},
+  {label:'💛 Golden Memory',clue:'clue: the last swahili word i said to you tonight 🌙',pw:'sana',content:'that time you said goodnight and i couldn\'t stop smiling. that one was for keeps. 🌙'},
   {label:'🥺 The Real One',clue:'clue: what i call you — first 6 letters only 😏',pw:'maycee',content:'honestly? you\'re one of the people i think about without a reason. just like that. randomly. 💜'},
   {label:'✨ Future Us',clue:'clue: 2 words i said about next time we meet 👀',pw:'next time',content:'"next time you\'ll have the time" — i\'m holding you to that. we\'re doing everything. 🌍'},
   {label:'🔥 The Secret',clue:'clue: the emoji you sent after "byeeee" — spell it out',pw:'star',content:'i wrote this when i was missing you and didn\'t want to say it directly. now you know. 🥺'},
